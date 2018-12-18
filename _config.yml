@@ -1,2 +1,3 @@
 name: Example One
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
